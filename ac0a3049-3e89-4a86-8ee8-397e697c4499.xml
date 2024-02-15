@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ac0a3049-3e89-4a86-8ee8-397e697c4499" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ac0a3049-3e89-4a86-8ee8-397e697c4499s_assembly" assemblyId="8e5c51c5b3ad41e49b8ac15919a429c3">
+<Part name="ac0a3049-3e89-4a86-8ee8-397e697c4499" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0293052 0.0698408 0.755345" rotation="AD: 0.999859 0.0647756 -0.276228 205.426" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
