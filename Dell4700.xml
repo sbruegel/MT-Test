@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Dell4700" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Dell4700s_assembly" assemblyId="7342b878f0d143fb862a920666e00fc6">
+<Part name="Dell4700" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.0458207 0.0808755 0.793365" rotation="AD: 0.999871 0.0549857 -0.311182 199.127" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
